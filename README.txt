@@ -1,0 +1,2 @@
+This is the learning project as a part of the course of the Odin Project. I create this website to learn basic html and git.
+The goal of this project is master the usage of tags of html and to use git properly to keep track of what I do.
